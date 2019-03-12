@@ -6578,6 +6578,10 @@
   description: Spring Boot
   github: https://github.com/moregorenine
   twitter: https://twitter.com/w4springrain
+- name: 한지수
+  blog: https://cleanupthedesk.tistory.com
+  rss: https://cleanupthedesk.tistory.com/rss
+  description: Cloud
 - name: 한창석
   blog: https://free-strings.blogspot.kr/
   rss: https://free-strings.blogspot.kr/atom.xml
